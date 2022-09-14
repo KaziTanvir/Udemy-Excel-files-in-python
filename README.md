@@ -7,3 +7,4 @@ In this course you will learn how to use Python for reading and writing Excel 20
 After completing this course you can create Excel files from code, read Excel files with Python, add images to your Excel file from code, create all kinds of charts and more.
 
 This is an intermediate level course that teaches you how to work with Excel in Python (openpyxl). You should already know the basics of the Python programming language before starting this course.
+Course link: shorturl.at/gwy56
