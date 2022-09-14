@@ -1,4 +1,4 @@
-#Excel files with Python
+# Excel files with Python
 
 Excel a widely available program belonging to the Microsoft Office software suite, used for creating and plotting spreadsheets. The format used by Excel is xls or xlsx. As office suite you can use Excel, LibreOffice, Google Sheets or any of the other office programs. The focus of this course is on Python with Excel, not on the office suite. This works on any platform including Apple Mac OS X, Microsoft Windows and Linux. 
 
